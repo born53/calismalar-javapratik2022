@@ -3,7 +3,7 @@ public class denemGit {
         String str ="yeni commit simdi intelijiye git";
         System.out.println(str);
       
-            
+            //merh
     }
 
 }
